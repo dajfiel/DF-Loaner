@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>x_snc_df_loaner.reminder</event_name>
+        <fired_by>Script Include: LoanerUtils</fired_by>
+        <queue/>
+        <suffix>reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 11:12:42</sys_created_on>
+        <sys_id>4cc895ec954913007f44d49974b713eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_df_loaner.reminder</sys_name>
+        <sys_package display_value="DF Loaner" source="x_snc_df_loaner">44c80ce4950913007f44d49974b71311</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Loaner">44c80ce4950913007f44d49974b71311</sys_scope>
+        <sys_update_name>sysevent_register_4cc895ec954913007f44d49974b713eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 11:14:29</sys_updated_on>
+        <table>x_snc_df_loaner_loaner_request</table>
+    </sysevent_register>
+</record_update>

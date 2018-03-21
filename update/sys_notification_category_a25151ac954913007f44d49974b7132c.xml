@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <short_description/>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 10:40:19</sys_created_on>
+        <sys_id>a25151ac954913007f44d49974b7132c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="DF Loaner" source="x_snc_df_loaner">44c80ce4950913007f44d49974b71311</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Loaner">44c80ce4950913007f44d49974b71311</sys_scope>
+        <sys_update_name>sys_notification_category_a25151ac954913007f44d49974b7132c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 10:40:19</sys_updated_on>
+    </sys_notification_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=a25151ac954913007f44d49974b7132c"/>
+</record_update>
