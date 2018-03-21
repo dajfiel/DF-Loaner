@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Users who administer the Loaner Request application</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_df_loaner.admin</name>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 07:14:29</sys_created_on>
+        <sys_id>e522ec60954913007f44d49974b713cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_df_loaner.admin</sys_name>
+        <sys_package display_value="DF Loaner" source="x_snc_df_loaner">44c80ce4950913007f44d49974b71311</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Loaner">44c80ce4950913007f44d49974b71311</sys_scope>
+        <sys_update_name>sys_user_role_e522ec60954913007f44d49974b713cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 07:14:29</sys_updated_on>
+    </sys_user_role>
+</record_update>

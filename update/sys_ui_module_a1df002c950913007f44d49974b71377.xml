@@ -11,21 +11,21 @@
         <order>50</order>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_snc_df_loaner.loaner_request_user</roles>
+        <roles>x_snc_df_loaner.loaner_request_user,x_snc_df_loaner.admin</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-21 05:54:59</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a1df002c950913007f44d49974b71377</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>My Loaner Requests</sys_name>
         <sys_package display_value="DF Loaner" source="x_snc_df_loaner">44c80ce4950913007f44d49974b71311</sys_package>
         <sys_policy/>
         <sys_scope display_value="DF Loaner">44c80ce4950913007f44d49974b71311</sys_scope>
         <sys_update_name>sys_ui_module_a1df002c950913007f44d49974b71377</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-21 05:56:45</sys_updated_on>
+        <sys_updated_on>2018-03-21 07:18:18</sys_updated_on>
         <table>x_snc_df_loaner_loaner_request</table>
         <uncancelable>false</uncancelable>
         <view_name/>
