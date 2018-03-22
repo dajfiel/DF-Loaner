@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Submit the current form and confirm form submitted to server</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <order>4</order>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 15:50:36</sys_created_on>
+        <sys_id>bc68962c958913007f44d49974b713c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="DF Loaner" source="x_snc_df_loaner">44c80ce4950913007f44d49974b71311</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Loaner">44c80ce4950913007f44d49974b71311</sys_scope>
+        <sys_update_name>sys_atf_step_bc68962c958913007f44d49974b713c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 15:50:36</sys_updated_on>
+        <table/>
+        <test display_value="My First Loaner Request ATF">3b975ae8958913007f44d49974b71375</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=bc68962c958913007f44d49974b713c7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bc68962c958913007f44d49974b713c7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 15:50:36</sys_created_on>
+        <sys_id>3968d62c958913007f44d49974b71316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 15:50:36</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+</record_update>
